@@ -1,5 +1,15 @@
 # Definición del MVP - Release 1.0
 
+---
+**Navegación de la documentación:**
+
+- [README](../README.md)
+- [Arquitectura](architecture.md)
+- [Lean Canvas](lean_canvas.md)
+- [Pre-mortem](pre_mortem.md)
+
+---
+
 Este documento utiliza la técnica de **User Story Mapping** para definir el alcance del Producto Mínimo Viable (MVP) del proyecto "Ratoneando". El objetivo es lanzar una primera versión coherente y funcional que resuelva el problema principal de los usuarios y permita recolectar la máxima cantidad de aprendizaje con el mínimo esfuerzo.
 
 Todo lo que se encuentra por encima de la "Línea del MVP" constituye las características esenciales para el lanzamiento inicial.

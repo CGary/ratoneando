@@ -1,5 +1,15 @@
 # Guía de Arquitectura Full-Stack: Puertos, Adaptadores y Slicing Vertical
 
+---
+**Navegación de la documentación:**
+
+- [README](../README.md)
+- [Lean Canvas](lean_canvas.md)
+- [Pre-mortem](pre_mortem.md)
+- [User Story Map v1.0](user_story_map_v1.0.md)
+
+---
+
 ## 1\. Fundamentos: Protegiendo lo que Realmente Importa
 
 ### 1.1. ¿Por qué necesitamos una Arquitectura?

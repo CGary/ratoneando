@@ -1,6 +1,16 @@
 # Lean Canvas: Proyecto Ratoneando
 
-Este documento presenta el Lean Canvas para el proyecto "Ratoneando", generado a partir de la información del archivo `README.md`.
+---
+**Navegación de la documentación:**
+
+- [README](../README.md)
+- [Arquitectura](architecture.md)
+- [Pre-mortem](pre_mortem.md)
+- [User Story Map v1.0](user_story_map_v1.0.md)
+
+---
+
+Este documento presenta el Lean Canvas para el proyecto "Ratoneando".
 
 | **Problema** | **Solución** | **Propuesta Única de Valor** | **Ventaja Diferencial** | **Segmentos de Clientes** |
 | :--- | :--- | :--- | :--- | :--- |

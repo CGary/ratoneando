@@ -1,5 +1,14 @@
 # Ratoneando: Plataforma de Comparación de Precios
 
+## 📚 Documentación
+
+Navega por la documentación del proyecto:
+
+- [Arquitectura](docs/architecture.md)
+- [Lean Canvas](docs/lean_canvas.md)
+- [Pre-mortem](docs/pre_mortem.md)
+- [User Story Map v1.0](docs/user_story_map_v1.0.md)
+
 > **Ratoneando: Innovación, transparencia y ahorro para el consumidor boliviano.**
 
 ## Visión General del Proyecto
